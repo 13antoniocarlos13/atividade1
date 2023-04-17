@@ -5,5 +5,5 @@ atividade1 unicesumar
 
 # projeto criado por antonio carlos da rocha neto
 
-$ git remote add 
+ seja bem-vindo
 

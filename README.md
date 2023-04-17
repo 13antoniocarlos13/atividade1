@@ -7,3 +7,4 @@ atividade1 unicesumar
 
  seja bem-vindo
 
+aprendendo a usar o gitgub
